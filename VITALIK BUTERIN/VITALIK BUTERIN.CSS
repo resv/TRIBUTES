@@ -27,3 +27,17 @@ hr.style-one {
 h1 {
   font-size: 150%;
 }
+
+h2 {
+  font-size: 300%;
+}
+
+h3 {
+  font-size: 100%;
+  font-style: italic;
+  color: gray;
+}
+
+p2 {
+  font-size: 80%;
+}
