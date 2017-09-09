@@ -45,3 +45,17 @@ body {
   margin-top: 5%;
   margin-bottom: 5%;
 }
+
+.navbar-coloring {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.navbar-link-coloring{
+  color: #FFFFFF;
+}
+.nav-item {
+    padding-left: 20%;
+    padding-right: 20%;
+    color: #FFFFFF;
+}
