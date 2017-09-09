@@ -62,16 +62,16 @@ body {
   margin-bottom: 10%;
 }
 
-.navbar-coloring {
-    color: #FFFFFF;
-    background-color: #000000;
+.navbar {
+  background-color: #000000;
 }
 
 .navbar-link-coloring{
   color: #FFFFFF;
 }
-.nav-item {
-    padding-left: 20%;
-    padding-right: 20%;
+
+.navbar-spacing {
+margin-top: 0px;
+    margin-right: 10%;
     color: #FFFFFF;
 }
