@@ -36,6 +36,12 @@ h2 {
   color: #000000;
 }
 
+.navbar-brand {
+  font-size: 100%;
+  color: white;
+  background-color: #000000;
+  font-family: 'Roboto Condensed', serif;
+}
 
 .strokeme
 {
@@ -64,14 +70,13 @@ body {
 
 .navbar {
   background-color: #000000;
+  font-family: 'Roboto Condensed', serif;
+  min-height: 1px;
 }
 
 .navbar-link-coloring{
-  color: #FFFFFF;
-}
-
-.navbar-spacing {
-margin-top: 0px;
-    margin-right: 10%;
-    color: #FFFFFF;
+  color: #d4d2ff;
+  font-size: 80%;
+  margin-left : 1em;
+  margin-right : 1em;
 }
