@@ -68,15 +68,25 @@ body {
   margin-bottom: 10%;
 }
 
+/*NAV BAR*/
+
 .navbar {
   background-color: #000000;
   font-family: 'Roboto Condensed', serif;
-  min-height: 1px;
+  min-height: 10px;
 }
 
 .navbar-link-coloring{
   color: #d4d2ff;
-  font-size: 80%;
+  font-size: 120%;
   margin-left : 1em;
   margin-right : 1em;
+}
+
+
+.navbar-brand {
+  font-size: 150%;
+  color: white;
+  background-color: #000000;
+  font-family: 'Roboto Condensed', serif;
 }
